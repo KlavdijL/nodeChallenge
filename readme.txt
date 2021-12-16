@@ -1,4 +1,6 @@
-APi call examples:
+Launching with: nodemon server.js starts the program on http://localhost:8000/health
+
+Api call examples:
     /health
     curl --request GET \
         --url http://localhost:8000/health
